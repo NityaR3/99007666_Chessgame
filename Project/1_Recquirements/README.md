@@ -12,8 +12,7 @@ _NOTE:_The pieces moves are defined as the most basic ones,not the high level mo
 | ID | High Level Requirements |
 | -------- | -------------- |
 | HLR1 |It shall allow two users or players to play the game interactively. |
-| HLR2 |It shall allow to play the game from
-remote locations. |
+| HLR2 |It shall allow to play the game from remote locations. |
 | HLR3 |It shall allow players to move and cut pieces |
 
 ### Low level requirements
